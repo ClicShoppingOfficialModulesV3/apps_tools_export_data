@@ -22,7 +22,7 @@ licence  : GPL 2 - MIT
 
 Install :
 
-http://monsite/myAdmin/index.php?A&Tools\EditTemplateProduct
+http://monsite/myAdmin/index.php?A&Tools\ExportData
 
 Activate the module in Tools
 

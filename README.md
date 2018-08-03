@@ -27,7 +27,7 @@ http://monsite/myAdmin/index.php?A&Tools\ExportData
 Activate the module in Tools
 
 More Informations on Marketplace
-link : https://www.clicshopping.org/forum/files/file/32-apps-tools-export-data/
+link : https://www.clicshopping.org/forum/files/file/57-apps-tools-export-data/
 
 ![export](https://github.com/ClicShoppingOfficialModulesV3/apps_tools_export_data/blob/master/ModuleInfosJson/export_data.png)
 
